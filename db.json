@@ -1,0 +1,157 @@
+{
+  "jobs": [
+    {
+      "id": 1,
+      "position": "Frontend Developer",
+      "company": "Udemig",
+      "location": "İzmir/Bayraklı",
+      "status": "Devam Ediyor",
+      "type": "Tam Zamanlı",
+      "date": "10/1/2023"
+    },
+    {
+      "id": 2,
+      "position": "Backend Developer",
+      "company": "Kodlama.io",
+      "location": "İstanbul/Üsküdar",
+      "status": "Mülakat",
+      "type": "Tam Zamanlı",
+      "date": "3/29/2023"
+    },
+    {
+      "id": 3,
+      "position": "UI/UX Designer",
+      "company": "Figma",
+      "location": "New York",
+      "status": "Devam Ediyor",
+      "type": "Uzaktan",
+      "date": "10/3/2023"
+    },
+    {
+      "id": 4,
+      "position": "Software Engineer",
+      "company": "Google",
+      "location": "New York",
+      "status": "Reddedildi",
+      "type": "Tam Zamanlı",
+      "date": "10/2/2020"
+    },
+    {
+      "id": 5,
+      "position": "Product Manager",
+      "company": "Amazon",
+      "location": "Seattle",
+      "status": "Mülakat",
+      "type": "Yarı Zamanlı",
+      "date": "3/10/2024"
+    },
+    {
+      "id": 6,
+      "position": "Data Scientist",
+      "company": "Microsoft",
+      "location": "Redmond",
+      "status": "Devam Ediyor",
+      "type": "Tam Zamanlı",
+      "date": "3/1/2024"
+    },
+    {
+      "id": 7,
+      "position": "Frontend Developer",
+      "company": "Udemig",
+      "location": "İzmir/Bayraklı",
+      "status": "Devam Ediyor",
+      "type": "Tam Zamanlı",
+      "date": "1/17/2021"
+    },
+    {
+      "id": 8,
+      "position": "Marketing Manager",
+      "company": "Coca Cola",
+      "location": "İstanbul/Levent",
+      "status": "Mülakat",
+      "type": "Tam Zamanlı",
+      "date": "9/12/2020"
+    },
+    {
+      "id": 9,
+      "position": "Software Tester",
+      "company": "IBM",
+      "location": "Ankara/Çankaya",
+      "status": "Devam Ediyor",
+      "type": "Yarı Zamanlı",
+      "date": "3/28/2023"
+    },
+    {
+      "id": 10,
+      "position": "Data Analyst",
+      "company": "Facebook",
+      "location": "Menlo Park",
+      "status": "Reddedildi",
+      "type": "Uzaktan",
+      "date": "3/28/2023"
+    },
+    {
+      "position": "qweqwe",
+      "company": "qweqwe",
+      "location": "qweqwe",
+      "status": "Devam Ediyor",
+      "type": "Tam Zamanlı",
+      "id": "03157397-27c3-4c5f-bfe2-39c781b46c3a",
+      "date": "08.09.2023"
+    },
+    {
+      "position": "fgefg",
+      "company": "sdfsdfsdf",
+      "location": "sdfsdfs",
+      "status": "Mülakat",
+      "type": "Uzaktan",
+      "id": "83477725-da88-41bc-891c-19812fd54fae",
+      "date": "08.09.2023"
+    },
+    {
+      "position": "wasdlpmasd",
+      "company": "sdfsdfsdfasdf",
+      "location": "sdfsdfsasd",
+      "status": "Mülakat",
+      "type": "Uzaktan",
+      "id": "c8868127-f459-456c-b296-d6dda2799291",
+      "date": "08.09.2023"
+    },
+    {
+      "position": "yeni iş",
+      "company": "als",
+      "location": "manisa",
+      "status": "Mülakat",
+      "type": "Uzaktan",
+      "id": "efbb4b89-02aa-4543-8efc-ca024a563192",
+      "date": "08.09.2023"
+    },
+    {
+      "position": "qweqwe",
+      "company": "qweqwe",
+      "location": "qweqwe",
+      "status": "Mülakat",
+      "type": "Tam Zamanlı",
+      "id": "14c8b59d-3974-41f3-b3f2-d7ddc9aa3b45",
+      "date": "08.09.2023"
+    },
+    {
+      "position": "frontend",
+      "company": "udemig",
+      "location": "izmir",
+      "status": "Mülakat",
+      "type": "Tam Zamanlı",
+      "id": "832e1309-fad3-4d69-9f9a-53517732da8d",
+      "date": "13.09.2023"
+    },
+    {
+      "position": "frontend",
+      "company": "udemig",
+      "location": "izmir",
+      "status": "Mülakat",
+      "type": "Tam Zamanlı",
+      "id": "12eeb1b6-9b8d-4442-9654-d4d29ad7e8f1",
+      "date": "13.09.2023"
+    }
+  ]
+}
